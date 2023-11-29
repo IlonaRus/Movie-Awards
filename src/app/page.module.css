@@ -1,7 +1,7 @@
 .main {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;  
+    justify-content: space-between;
     align-items: center;
     padding: 6rem;
     min-height: 100vh;
@@ -11,6 +11,7 @@
     background-color: beige;
     width: 100vw;
     position: fixed;
+    z-index: 1;
     top: 0;
     border: 1px solid black;
 }
@@ -44,20 +45,53 @@
     border: 1px solid black;
     border-radius: 10px;
     background-color: beige;
-    width: 600px;
-    height: 350px;
+    width: 80vw;
+    height: 400px;
     margin-bottom: 45px;
     box-shadow: 8px 8px black;
     opacity: 1;
-    transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+    transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg)
+        rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
     transform-style: preserve-3d;
 }
 
 .card-content {
     padding: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
 }
 
-.card-content h3 {
-    margin-bottom: 20px;
+.card-content.flex-reverse .row {
+    flex-direction: row-reverse;
 }
 
+.card-content .column {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+}
+
+.card-content .column .column-1,
+.card-content .column .column-2 {
+    height: 100%;
+}
+
+.card-content .column-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 30px;
+}
+
+.card-content h2 {
+    font-size: 30px;
+    font-weight: 100;
+}
+
+.card-content p {
+    margin: 20px 0;
+}
