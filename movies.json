@@ -1,0 +1,176 @@
+{
+    "movies": [
+        {
+            "name": "White noise",
+            "category": "all"
+        },
+        {
+            "name": "The Menu",
+            "category": "all"
+        },
+        {
+            "name": "Lightyear",
+            "category": "all, animation"
+        },
+        {
+            "name": "Puss in boots",
+            "category": "all, animation"
+        },
+        {
+            "name": "Bullet train",
+            "category": "all, vehicle, action"
+        },
+        {
+            "name": "All quiet at the western front",
+            "category": "all, action"
+        },
+        {
+            "name": "The whale",
+            "category": "all"
+        },
+        {
+            "name": "You people",
+            "category": "all"
+        },
+        {
+            "name": "The batman",
+            "category": "all, action, superhero"
+        },
+        {
+            "name": "Fall",
+            "category": "all"
+        },
+        {
+            "name": "Narvik",
+            "category": "all"
+        },
+        {
+            "name": "Misfits",
+            "category": "all, action"
+        },
+        {
+            "name": "John Wick 4",
+            "category": "all, action, sequel"
+        },
+        {
+            "name": "Dungeons & Dragons",
+            "category": "all, action"
+        },
+        {
+            "name": "Cocaine bear",
+            "category": "all, gore"
+        },
+        {
+            "name": "Ant-man & the wasp: Quantummania",
+            "category": "all, superhero, sequel"
+        },
+        {
+            "name": "Shazam 2",
+            "category": "all, superhero, sequel"
+        },
+        {
+            "name": "Plane",
+            "category": "all, action, vehicle"
+        },
+        {
+            "name": "The unbearable weight of massive talent",
+            "category": "all"
+        },
+        {
+            "name": "Sonic 2",
+            "category": "all, sequel"
+        },
+        {
+            "name": "Guardians of the galaxy 3",
+            "category": "all, superhero, sequel"
+        },
+        {
+            "name": "Ambulance",
+            "category": "all, action, vehicle"
+        },
+        {
+            "name": "Sisu",
+            "category": "all, action, gore"
+        },
+        {
+            "name": "Spiderman: Across the spiderverse",
+            "category": "all, superhero, sequel"
+        },
+        {
+            "name": "Batman Lego movie",
+            "category": "all, superhero"
+        },
+        {
+            "name": "Renfield",
+            "category": "all"
+        },
+        {
+            "name": "Super Mario movie",
+            "category": "all, animation"
+        },
+        {
+            "name": "Extraction 2",
+            "category": "all, sequel"
+        },
+        {
+            "name": "Prey",
+            "category": "all, gore"
+        },
+        {
+            "name": "Black Adam",
+            "category": "all, superhero"
+        },
+        {
+            "name": "Sound of metal",
+            "category": "all"
+        },
+        {
+            "name": "Fast X",
+            "category": "all, action, sequel, vehicle"
+        },
+        {
+            "name": "Boiling point",
+            "category": "all"
+        },
+        {
+            "name": "Mission Impossible: Dead reckoning 1",
+            "category": "all, action, sequel"
+        },
+        {
+            "name": "The Northman",
+            "category": "all, gore"
+        },
+        {
+            "name": "Ready or not",
+            "category": "all, gore"
+        },
+        {
+            "name": "The Covenant",
+            "category": "all, action"
+        },
+        {
+            "name": "Operation fortune: ruse de guerre",
+            "category": "all, action"
+        },
+        {
+            "name": "The retirement plan",
+            "category": "all, action"
+        },
+        {
+            "name": "Astroid city",
+            "category": "all"
+        },
+        {
+            "name": "The equalizer 3",
+            "category": "all, action, sequel"
+        },
+        {
+            "name": "Hardcore never dies",
+            "category": "all"
+        },
+        {
+            "name": "Godzilla: Minus 1",
+            "category": "all, action, sequel"
+        }
+    ]
+}
